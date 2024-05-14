@@ -31,7 +31,6 @@ Incorporated dynamic features allowing stakeholders to explore data interactivel
 We Have majorly three types of data
 1) Absenteeism at work 
 2) Reasons
-
-3)Compensation 
+3) Compensation 
 
 ![HRAbsenteeisml](https://github.com/supe29/HR-analytics--Absenteesim/assets/69507898/02717ac4-cc59-45b0-a707-1691f9cfbd0e)
